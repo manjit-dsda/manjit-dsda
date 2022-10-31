@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @manjit-baishya
+- 👀 I’m interested in Data-Analytics
+- 🌱 I’m currently learning Power BI
+- 📫 Reach me @ manjitbaishya2202@gmail.com
